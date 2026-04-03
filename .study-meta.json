@@ -1,0 +1,21 @@
+{
+  "schemaVersion": "2.0",
+  "managedBy": {
+    "skill": "repo-study",
+    "createdBySkill": true,
+    "createdAt": "2026-04-03T00:00:00+08:00"
+  },
+  "repo": {
+    "name": "mcp2cli",
+    "url": "git@github.com:knowsuchagency/mcp2cli.git",
+    "githubUrl": "https://github.com/knowsuchagency/mcp2cli",
+    "owner": "knowsuchagency",
+    "branch": "main",
+    "commitSha": "78c9a41cb787046473da6fcac8d360ece9d33e48"
+  },
+  "topics": [],
+  "timestamps": {
+    "createdAt": "2026-04-03T00:00:00+08:00",
+    "lastUpdated": "2026-04-03T00:00:00+08:00"
+  }
+}
