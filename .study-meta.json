@@ -13,7 +13,41 @@
     "branch": "main",
     "commitSha": "78c9a41cb787046473da6fcac8d360ece9d33e48"
   },
-  "topics": [],
+  "topics": [
+    {
+      "id": "mcp-protocol-integration",
+      "name": "MCP 协议集成机制",
+      "category": "mcp-integration",
+      "tags": ["mcp", "cli", "runtime", "protocol"],
+      "state": "active",
+      "progress": {
+        "questionCount": 1,
+        "noteCount": 1,
+        "guideCount": 0,
+        "skillTemplateCount": 0,
+        "runnableSkillCount": 0,
+        "lastActivityAt": "2026-04-03T00:00:00+08:00"
+      },
+      "questions": [
+        {
+          "id": "q-001",
+          "text": "mcp2cli 如何实现 MCP 协议集成？如何将 MCP server 转换为 CLI？",
+          "createdAt": "2026-04-03T00:00:00+08:00"
+        }
+      ],
+      "artifacts": [
+        {
+          "type": "note",
+          "path": "notes/mcp-integration/mcp-protocol-integration.md",
+          "createdAt": "2026-04-03T00:00:00+08:00"
+        }
+      ],
+      "skillPackaging": {
+        "hasSkillTemplate": false,
+        "hasRunnableSkill": false
+      }
+    }
+  ],
   "timestamps": {
     "createdAt": "2026-04-03T00:00:00+08:00",
     "lastUpdated": "2026-04-03T00:00:00+08:00"
